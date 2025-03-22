@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a86c4fe-59b0-49a8-9318-7d4f01c18c96" name="Changes" comment="1st deployment to test how UI looks." />
+    <list default="true" id="2a86c4fe-59b0-49a8-9318-7d4f01c18c96" name="Changes" comment="1st deployment to test how UI looks.">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
