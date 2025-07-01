@@ -10972,3 +10972,19 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.hover-zoom {
+    max-width: 300px;
+    transition: transform 0.3s ease;
+    transform-origin: left center;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+}
+
+.hover-zoom:hover {
+    transform: scale(3.5) translateX(40px); /* zoom + push to the right */
+    z-index: 10; /* zoom in on hover */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
